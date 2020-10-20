@@ -1,7 +1,7 @@
 package com.glasswater;
 
 import com.facebook.react.ReactActivity;
-
+import io.invertase.firebase.auth.ReactNativeFirebaseAuthPackage;
 public class MainActivity extends ReactActivity {
 
   /**
@@ -10,6 +10,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
+    new ReactNativeFirebaseAuthPackage();
     return "glasswater";
   }
 }

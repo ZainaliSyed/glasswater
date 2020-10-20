@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729724288161",
+    "firebase_url": "https://glasswater-8d5a5.firebaseio.com",
+    "project_id": "glasswater-8d5a5",
+    "storage_bucket": "glasswater-8d5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729724288161:android:1f9abfcf13f118fca304e0",
+        "android_client_info": {
+          "package_name": "com.glasswater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729724288161-uphvo8j9bpf160nk0ttet63mi65rit36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glasswater",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "729724288161-2830m1mlnk35g1hn1t1e6gbfkl7h7f0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dOiEBi4ktFIPaZpAyY14UVD_mWFNxDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729724288161-2830m1mlnk35g1hn1t1e6gbfkl7h7f0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
