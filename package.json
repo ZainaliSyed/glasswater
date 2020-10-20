@@ -12,6 +12,8 @@
   "dependencies": {
     "@react-native-firebase/app": "^8.4.6",
     "@react-native-firebase/auth": "^9.3.1",
+    "@react-native-firebase/database": "^7.5.12",
+    "@react-native-firebase/firestore": "^7.8.7",
     "@react-native-firebase/messaging": "^7.9.1",
     "firebase": "^7.24.0",
     "firebase-admin": "^9.2.0",
@@ -33,6 +35,6 @@
     "preset": "react-native"
   },
   "engines": {
-    "node": "8"
+    "node": "12.16.3"
   }
 }
